@@ -1,5 +1,4 @@
 ![logo](https://github.com/tihorlap/tihorlap/blob/main/github.jpg)
-
 <h1 align="center">Hi 👋, I'm Rohit pal</h1>
 <h3 align="center">A passionate learner & software devloper from India ,</h3>
 
