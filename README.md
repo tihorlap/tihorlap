@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Webdevlopment , DSA**
 
-- 💬 Ask me about **front end ,php , my sql**
+- 💬 Ask me about **Html ,css ,java script ,php ,my sql ,laravel, Data Analyst , Computer Fundamental, Data Structure**
 
-- 📫 How to reach me **rp3822035@gmail.com**
+- 📫 How to reach me **rohitpalnita73@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1isj7W0NolcZdevz4Qif_aN0WyRfUVeMm/view?usp=drive_link](https://drive.google.com/file/d/1isj7W0NolcZdevz4Qif_aN0WyRfUVeMm/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1isj7W0NolcZdevz4Qif_aN0WyRfUVeMm/view?usp=drive_link](https://drive.google.com/file/d/1U7YKnItoSeRiLbFLmQYcZzkpQ6orr22S/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny**
 
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tihorlap&show_icons=true&locale=en" alt="tihorlap" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tihorlap&" alt="tihorlap" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tihorlap&" alt="tihorlap"/></p>
